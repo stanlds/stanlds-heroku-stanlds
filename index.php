@@ -3,6 +3,6 @@
   <title>Hello heroku</title>
  </head>
  <body>
- <?php echo '<p>Hello  ¡'.($_GET["name"]).!'</p>'; ?> 
+ <?php echo '<p>Hello  ¡'.($_GET["name"]).'!</p>'; ?> 
  </body>
 </html>
